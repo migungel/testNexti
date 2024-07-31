@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0",
+    "zustand": "^4.5.4"
+  },
+  "name": "front",
+  "version": "1.0.0",
+  "main": "config.js",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

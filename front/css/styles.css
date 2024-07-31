@@ -1,0 +1,13 @@
+body {
+  padding-top: 20px;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.btn-edit,
+.btn-delete {
+  margin-right: 5px;
+}
